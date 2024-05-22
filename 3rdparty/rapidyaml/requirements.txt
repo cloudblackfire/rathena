@@ -5,3 +5,4 @@ build
 twine
 setuptools_scm
 setuptools-git
+requests>=2.32.0 # not directly required, pinned by Snyk to avoid a vulnerability
